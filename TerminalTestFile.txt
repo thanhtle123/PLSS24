@@ -2,3 +2,4 @@ Das ist eine in Nano erstellte Testfile!
 3 - 4 
 Versuche Syncfunktion
 Versuch NR 2.
+Versuch nr 3.
