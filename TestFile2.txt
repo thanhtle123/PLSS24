@@ -1,0 +1,2 @@
+Das ist eine Testfile nach dem schließen des Terminals um zu überprüfen ob 
+die Push Funktion immer noch funktioniert
